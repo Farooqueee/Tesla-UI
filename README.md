@@ -1,4 +1,4 @@
-# Tesla UI Interactive Design with Tailwind CSS
+# Tesla UI Interactive Design
 
 This project is a visually appealing and interactive Tesla UI design created using **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**. It mimics the style and interactivity of Tesla's car interface, offering an engaging user experience with responsive layouts and dynamic UI elements.
 
