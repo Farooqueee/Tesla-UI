@@ -113,17 +113,17 @@ const handleScroll = () => {
 
 // Image Mapping
 const exteriorImages = {
-  "Stealth Grey": "./images/model-y-stealth-grey.jpg",
-  "Pearl White": "./images/model-y-pearl-white.jpg",
-  "Deep Blue": "./images/model-y-deep-blue-metallic.jpg",
-  "Solid Black": "./images/model-y-solid-black.jpg",
-  "Ultra Red": "./images/model-y-ultra-red.jpg",
-  Quicksilver: "./images/model-y-quicksilver.jpg",
+  "Stealth Grey": "Src/images/model-y-stealth-grey.jpg",
+  "Pearl White": "Src/images/model-y-pearl-white.jpg",
+  "Deep Blue": "Src/images/model-y-deep-blue-metallic.jpg",
+  "Solid Black": "Src/images/model-y-solid-black.jpg",
+  "Ultra Red": "Src/images/model-y-ultra-red.jpg",
+  Quicksilver: "Src/images/model-y-quicksilver.jpg",
 };
 
 const interiorImages = {
-  Dark: "./images/model-y-interior-dark.jpg",
-  Light: "./images/model-y-interior-light.jpg",
+  Dark: "Src/images/model-y-interior-dark.jpg",
+  Light: "Src/images/model-y-interior-light.jpg",
 };
 
 // Handle Color Selection
