@@ -2,6 +2,12 @@
 
 This project is a visually appealing and interactive Tesla UI design created using **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**. It mimics the style and interactivity of Tesla's car interface, offering an engaging user experience with responsive layouts and dynamic UI elements.
 
+## Demo
+
+Play the game live here: [https://farooqueee.github.io/Tesla-UI/](https://farooqueee.github.io/Tesla-UI/).
+
+
+
 ## Features
 - **Responsive Layout**: Designed to be fully responsive, providing a seamless experience on various devices.
 - **Interactive Components**: Includes interactive UI elements like buttons, sliders, and modal dialogues for a rich user experience.
