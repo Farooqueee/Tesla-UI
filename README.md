@@ -4,7 +4,7 @@ This project is a visually appealing and interactive Tesla UI design created usi
 
 ## Demo
 
-You can check the UI here: [https://farooqueee.github.io/Tesla-UI/](https://farooqueee.github.io/Tesla-UI/).
+You can check the UI here: [https://farooqueee.github.io/Tesla-UI/](https://farooqueee.github.io/Tesla-UI/)
 
 
 
